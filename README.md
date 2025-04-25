@@ -1,2 +1,2 @@
-# inertia
-Inertia JS basics &amp; use cases. 
+# Laravel PHP & inertiaJS
+Laravel with Inertia JS basics &amp; use cases.
